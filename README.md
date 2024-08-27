@@ -58,3 +58,9 @@ This is a simple Django REST API project that provides CRUD functionality for ma
 - **Reviews**: `/api/reviews/`
 
 Refer to the Swagger documentation for detailed API documentation and usage.
+
+## API Documentation
+
+API documentation is automatically generated using Swagger. Once the server is running, you can access the documentation at: https://devcodecademy.pythonanywhere.com/swagger/
+
+
