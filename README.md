@@ -20,7 +20,7 @@ This is a simple Django REST API project that provides CRUD functionality for ma
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/aycanmuratbekova/crud.git
-    cd your-repo-name
+    cd core
     ```
 
 2. **Create and activate a virtual environment**:
